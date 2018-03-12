@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/tentkls/gallery_app
+[submodule "content"]
+	path = content
+	url = https://github.com/tentkls/gallery_content_1/
